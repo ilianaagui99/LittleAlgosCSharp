@@ -1,0 +1,12 @@
+/Users/admin/Desktop/wos/csharp/Stack1/bin/Debug/netcoreapp3.1/Stack1.deps.json
+/Users/admin/Desktop/wos/csharp/Stack1/bin/Debug/netcoreapp3.1/Stack1.runtimeconfig.json
+/Users/admin/Desktop/wos/csharp/Stack1/bin/Debug/netcoreapp3.1/Stack1.runtimeconfig.dev.json
+/Users/admin/Desktop/wos/csharp/Stack1/bin/Debug/netcoreapp3.1/Stack1.dll
+/Users/admin/Desktop/wos/csharp/Stack1/bin/Debug/netcoreapp3.1/Stack1.pdb
+/Users/admin/Desktop/wos/csharp/Stack1/obj/Debug/netcoreapp3.1/Stack1.csprojAssemblyReference.cache
+/Users/admin/Desktop/wos/csharp/Stack1/obj/Debug/netcoreapp3.1/Stack1.AssemblyInfoInputs.cache
+/Users/admin/Desktop/wos/csharp/Stack1/obj/Debug/netcoreapp3.1/Stack1.AssemblyInfo.cs
+/Users/admin/Desktop/wos/csharp/Stack1/obj/Debug/netcoreapp3.1/Stack1.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/wos/csharp/Stack1/obj/Debug/netcoreapp3.1/Stack1.dll
+/Users/admin/Desktop/wos/csharp/Stack1/obj/Debug/netcoreapp3.1/Stack1.pdb
+/Users/admin/Desktop/wos/csharp/Stack1/obj/Debug/netcoreapp3.1/Stack1.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/admin/Desktop/wos/csharp/MoreStacks/obj/Debug/netcoreapp3.1/MoreStacks.csprojAssemblyReference.cache
+/Users/admin/Desktop/wos/csharp/MoreStacks/obj/Debug/netcoreapp3.1/MoreStacks.AssemblyInfoInputs.cache
+/Users/admin/Desktop/wos/csharp/MoreStacks/obj/Debug/netcoreapp3.1/MoreStacks.AssemblyInfo.cs
+/Users/admin/Desktop/wos/csharp/MoreStacks/obj/Debug/netcoreapp3.1/MoreStacks.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/wos/csharp/MoreStacks/bin/Debug/netcoreapp3.1/MoreStacks.deps.json
+/Users/admin/Desktop/wos/csharp/MoreStacks/bin/Debug/netcoreapp3.1/MoreStacks.runtimeconfig.json
+/Users/admin/Desktop/wos/csharp/MoreStacks/bin/Debug/netcoreapp3.1/MoreStacks.runtimeconfig.dev.json
+/Users/admin/Desktop/wos/csharp/MoreStacks/bin/Debug/netcoreapp3.1/MoreStacks.dll
+/Users/admin/Desktop/wos/csharp/MoreStacks/bin/Debug/netcoreapp3.1/MoreStacks.pdb
+/Users/admin/Desktop/wos/csharp/MoreStacks/obj/Debug/netcoreapp3.1/MoreStacks.dll
+/Users/admin/Desktop/wos/csharp/MoreStacks/obj/Debug/netcoreapp3.1/MoreStacks.pdb
+/Users/admin/Desktop/wos/csharp/MoreStacks/obj/Debug/netcoreapp3.1/MoreStacks.genruntimeconfig.cache

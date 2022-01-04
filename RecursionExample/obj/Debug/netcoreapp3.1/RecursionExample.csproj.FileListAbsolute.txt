@@ -1,0 +1,4 @@
+/Users/admin/Desktop/wos/csharp/RecursionExample/obj/Debug/netcoreapp3.1/RecursionExample.csprojAssemblyReference.cache
+/Users/admin/Desktop/wos/csharp/RecursionExample/obj/Debug/netcoreapp3.1/RecursionExample.AssemblyInfoInputs.cache
+/Users/admin/Desktop/wos/csharp/RecursionExample/obj/Debug/netcoreapp3.1/RecursionExample.AssemblyInfo.cs
+/Users/admin/Desktop/wos/csharp/RecursionExample/obj/Debug/netcoreapp3.1/RecursionExample.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+/Users/admin/Desktop/wos/csharp/Queue/obj/Debug/netcoreapp3.1/Queue.csprojAssemblyReference.cache
+/Users/admin/Desktop/wos/csharp/Queue/obj/Debug/netcoreapp3.1/Queue.AssemblyInfoInputs.cache
+/Users/admin/Desktop/wos/csharp/Queue/obj/Debug/netcoreapp3.1/Queue.AssemblyInfo.cs
+/Users/admin/Desktop/wos/csharp/Queue/obj/Debug/netcoreapp3.1/Queue.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/wos/csharp/Queue/bin/Debug/netcoreapp3.1/Queue.deps.json
+/Users/admin/Desktop/wos/csharp/Queue/bin/Debug/netcoreapp3.1/Queue.runtimeconfig.json
+/Users/admin/Desktop/wos/csharp/Queue/bin/Debug/netcoreapp3.1/Queue.runtimeconfig.dev.json
+/Users/admin/Desktop/wos/csharp/Queue/bin/Debug/netcoreapp3.1/Queue.dll
+/Users/admin/Desktop/wos/csharp/Queue/bin/Debug/netcoreapp3.1/Queue.pdb
+/Users/admin/Desktop/wos/csharp/Queue/obj/Debug/netcoreapp3.1/Queue.dll
+/Users/admin/Desktop/wos/csharp/Queue/obj/Debug/netcoreapp3.1/Queue.pdb
+/Users/admin/Desktop/wos/csharp/Queue/obj/Debug/netcoreapp3.1/Queue.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/admin/Desktop/wos/ClassStack/obj/Debug/netcoreapp3.1/ClassStack.csprojAssemblyReference.cache
+/Users/admin/Desktop/wos/ClassStack/obj/Debug/netcoreapp3.1/ClassStack.AssemblyInfoInputs.cache
+/Users/admin/Desktop/wos/ClassStack/obj/Debug/netcoreapp3.1/ClassStack.AssemblyInfo.cs
+/Users/admin/Desktop/wos/ClassStack/obj/Debug/netcoreapp3.1/ClassStack.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/wos/ClassStack/bin/Debug/netcoreapp3.1/ClassStack.deps.json
+/Users/admin/Desktop/wos/ClassStack/bin/Debug/netcoreapp3.1/ClassStack.runtimeconfig.json
+/Users/admin/Desktop/wos/ClassStack/bin/Debug/netcoreapp3.1/ClassStack.runtimeconfig.dev.json
+/Users/admin/Desktop/wos/ClassStack/bin/Debug/netcoreapp3.1/ClassStack.dll
+/Users/admin/Desktop/wos/ClassStack/bin/Debug/netcoreapp3.1/ClassStack.pdb
+/Users/admin/Desktop/wos/ClassStack/obj/Debug/netcoreapp3.1/ClassStack.dll
+/Users/admin/Desktop/wos/ClassStack/obj/Debug/netcoreapp3.1/ClassStack.pdb
+/Users/admin/Desktop/wos/ClassStack/obj/Debug/netcoreapp3.1/ClassStack.genruntimeconfig.cache
